@@ -12,4 +12,4 @@ jobs:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
           message: wassup boy
-          photo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzkOwf7Uk9luxwAI1r5aeJ6dbw51PgL9nxflCOhGcDHQ&s
+          photo: https://upload.wikimedia.org/wikipedia/commons/f/ff/Kevin_Levrone.jpg
