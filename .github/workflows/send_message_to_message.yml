@@ -12,5 +12,5 @@ jobs:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
           message: wassup boy
-          photo: photo1699956857.jpeg
+          photo: https://e7.pngegg.com/pngimages/753/502/png-clipart-tablet-branched-chain-amino-acid-odessa-kiev-kharkiv-tablet-electronics-tablet.png
           location: '24.9163213 121.1424972'
