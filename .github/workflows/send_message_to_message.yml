@@ -11,6 +11,6 @@ jobs:
         with:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
-          photo: https://web.telegram.org/df6a9e91-2876-47f6-96aa-e8e92dd9f282
+          photo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzkOwf7Uk9luxwAI1r5aeJ6dbw51PgL9nxflCOhGcDHQ&s
           message: |
            wassup boy
