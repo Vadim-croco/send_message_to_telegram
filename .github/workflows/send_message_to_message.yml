@@ -14,3 +14,5 @@ jobs:
           message: wassup boy
           photo: https://upload.wikimedia.org/wikipedia/commons/f/ff/Kevin_Levrone.jpg
           document: https://upload.wikimedia.org/wikipedia/commons/f/ff/Kevin_Levrone.jpg
+          location: '24.9163213 121.1424972'
+          venue: '35.661777 139.704051 竹北體育館 新竹縣竹北市'
